@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @l1qxor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola mi nombre @l1qxor
+- 👀 Mi instagram @aka.sexg
+- 📫 Para cualquier duda contactar a dm @aka.sexg
 
-<!---
-l1qxor/l1qxor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                 _..__.          .__.._
+               .^"-.._ '-(\__/)-' _..-"^.
+                      '-.' oo '.-'
+                         `-..-' Aka Sexg
